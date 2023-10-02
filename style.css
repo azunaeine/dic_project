@@ -1,0 +1,48 @@
+
+body{
+    color: #000000;
+}
+.container{
+    width: 70%;
+    margin: 50px auto;
+    text-align: center;
+}
+.logo img{
+    width: 120px;
+}
+h1{
+    font-family: 'Poppins@wght700', sans-serif;
+}
+.date{
+    color:  #A9A9A9;
+    font-family: "Poppins@wght500", sans-serif;
+}
+.content{
+    border: 2px solid #000000; 
+    border-radius: 10px;
+    width: 60%;
+    margin: 20px auto;
+    padding: 10px 40px;
+    box-shadow: 0.5px 2px 2px 0px rgb(147, 147, 147);
+}
+.description{
+    font-family: 'Poppins:ital@wght600', sans-serif;
+    font-style: italic;
+}
+.description p{
+    text-align: left;
+}
+.btn{
+    margin-top: 30px;
+}
+.btn button{
+    width: 40%;
+    background-color: #000000;
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-family: "Poppins@wght400", sans-serif;
+    box-shadow: 0.5px 2px 2px 0px rgb(147, 147, 147);
+    cursor: pointer;
+}
